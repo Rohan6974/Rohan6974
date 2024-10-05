@@ -1,5 +1,5 @@
 
-<img src="https://icons8.com/illustrations">
+<img src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif">
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
