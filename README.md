@@ -4,12 +4,6 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan6974&label=Profile%20views&color=0e75b6&style=flat" alt="rohan6974" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan6974" alt="rohan6974" /></a> </p>
-
 <img src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif" width="35%" height="35%" align="right" border-radius="10px" border="20">
 
 - 🌱 I’m currently learning **MERN Stack Development**
