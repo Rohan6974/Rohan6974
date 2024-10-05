@@ -1,8 +1,10 @@
 
-<img src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif" width="40%" height="40%" margin-left="400px">
+
 
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
+
+<img src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif" width="40%" height="40%" margin-left="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan6974&label=Profile%20views&color=0e75b6&style=flat" alt="rohan6974" /> </p>
 
