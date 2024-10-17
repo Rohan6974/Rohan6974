@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Javascript, C++, C**
 
 - 📫 How to reach me **rohanparbatani37@gmail.com**
 
