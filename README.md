@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rohanparbatani37@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am passionate about learning tech**
 
 <h3 align="left">Connect me on :</h3>
 <p align="left">
