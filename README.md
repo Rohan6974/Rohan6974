@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝  I am looking help Data structure and<br>      algorithms.<br>🌱  I am currently learning Machine learning<br>      and Deep learning.<br>☕ Ask me about MERN stack and Backend.<br>⚡ Fun fact : I am passionate about tech 
+🤝  I am looking help Data structure and<br>      algorithms.<br>🌱  I am currently learning Machine learning<br>      and Deep learning.<br>☕ Ask me about MERN stack and Backend.<br>⚡ Fun fact : Life is like a github repo, nothing's gonna change until you commit
 
 
 ## 🌐 Socials:
